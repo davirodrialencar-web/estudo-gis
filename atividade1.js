@@ -1,0 +1,8 @@
+console.log( "5" == 5)
+console.log( "5" === 5)
+console.log( "10" != 10)
+console.log( "12" !== 14)
+console.log( 198>35)
+console.log(176<200)
+console.log( 23>= 23)
+console.log( 48<= 22)
